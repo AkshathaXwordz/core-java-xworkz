@@ -1,0 +1,7 @@
+class WallLamp{
+ public static void main (String WallLamp[]){
+ System.out.println(" NKMD Uplight Wall Lamp Without Bulb ");
+System.out.println(" Type: Uplight ,Material: [Glass,Metal] ,Surface Mounted");
+System.out.println("Bulb Used: [LED,CFL] ,Night Light,Display Light ,Porch Lights");
+}
+} 
