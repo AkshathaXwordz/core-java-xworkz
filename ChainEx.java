@@ -18,7 +18,7 @@ System.out.println("chain price is "+ chain.price);
 System.out.println("chain design is "+chain.design	); 
 System.out.println("chain occasions is "+chain.occasion); 
 
-Chain chain2 =new Chain();
+Chain chain1 =new Chain();
 chain1.chainId =2;
 chain1.type = "gold ";
 chain1.weightInGrams =13;
@@ -34,7 +34,7 @@ System.out.println("chain price is "+ chain1.price);
 System.out.println("chain design is "+chain1.design	); 
 System.out.println("chain occasions is "+chain1.occasion); 
 
-Chain chain =new Chain();
+Chain chain2 =new Chain();
 chain2.chainId =3;
 chain2.type = "Silver ";
 chain2.weightInGrams =15;
@@ -50,7 +50,7 @@ System.out.println("chain price is "+ chain2.price);
 System.out.println("chain design is "+chain2.design	); 
 System.out.println("chain occasions is "+chain2.occasion); 
 
-Chain chain =new Chain();
+Chain chain3 =new Chain();
 chain3.chainId =4;
 chain3.type = "gold";
 chain3.weightInGrams =55;
