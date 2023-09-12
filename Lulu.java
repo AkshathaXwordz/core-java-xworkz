@@ -1,0 +1,2 @@
+class Lulu extends Mall {
+}
