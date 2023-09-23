@@ -1,7 +1,9 @@
-class Watch{
-
-public void time(String big, String min){
-System.out.println("Watch has:"+big+" and "+min);
-}
-
-}
+class Watch {
+ 
+ String usedFor;
+ Cell watchCell;
+ 
+ 
+ public void handset(){
+ }
+ }

@@ -1,3 +1,0 @@
-class Samsung extends Moblile{
-
-}

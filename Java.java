@@ -1,2 +1,7 @@
-class Java extends ProgrammingLanguage{
+class Java{
+	String hostCompanyName;
+	Jvm jvm;
+	public void programingLang(){
+		
+	}
 }

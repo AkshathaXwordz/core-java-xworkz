@@ -1,2 +1,7 @@
-class Water extends Liquid{
+class Water{
+	String waterType;
+	Fish fish;
+	public void Pisciculture(){
+		
+	}
 }
